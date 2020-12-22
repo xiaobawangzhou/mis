@@ -1,0 +1,25 @@
+[
+  {"name":"aaa","open":true,
+    "children":[
+      {"name":"bbb"},
+      {"name":"ccc"}
+    ]},
+  {"name":"dddd","open":true,
+    "children":[
+      {"name":"ddd1"},
+      {"name":"ddd2"},
+      {"name":"dddd3"}
+    ]},
+  {"name":"eeee",
+    "children":[
+      {"name":"ee1",
+        "children":[
+          {"name":"eeee1"},
+          {"name":"eeee2"}
+        ] },
+      {"name":"ee2"},
+      {"name":"ee3"}
+    ]
+
+  }
+]
